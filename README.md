@@ -17,9 +17,7 @@ This is a simple **Face Recognition Attendance System** built using Python, Open
 
 You can install the required libraries using:
 
-```bash
-pip install -r requirements.txt
-Clone the Repository
+
 To clone the repository:
 
 ```bash
